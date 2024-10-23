@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cockyasco.github.io/cockyasco.cockyasco
+Sitemap: https://cockyasco.github.io/app/cockyasco.cockyasco
+Sitemap: https://cockyasco.github.io/assets/cockyasco.cockyasco
+Sitemap: https://cockyasco.github.io/css/cockyasco.cockyasco
+Sitemap: https://cockyasco.github.io/includes/cockyasco.cockyasco
+Sitemap: https://cockyasco.github.io/item/cockyasco.cockyasco
+Sitemap: https://cockyasco.github.io/src/cockyasco.cockyasco
